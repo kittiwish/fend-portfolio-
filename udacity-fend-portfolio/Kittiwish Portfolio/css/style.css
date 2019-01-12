@@ -1,0 +1,51 @@
+﻿.logo-image {
+
+    width: 20%;
+}
+
+
+.middle-pic {
+
+    max-width: 100% ;
+    height: auto;
+
+
+}
+
+
+hr {
+    height: 5px;
+    color: #0033cc;
+    background-color: #0033cc;
+    border: none;
+}
+
+
+
+.col-md-6 {
+    color: #0033cc;
+}
+
+
+
+.col-md-4 {
+    margin: auto;
+    height: auto;
+    width: auto;
+}
+
+
+html, body {
+    height: 100%;
+    margin:0;
+}
+
+
+.centering {
+    text-align: center;
+}
+
+.right{
+
+    text-align: right;
+}
